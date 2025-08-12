@@ -1,0 +1,22 @@
+# Java bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE settings (optional)
+*.iml
+.idea/
+*.log
+*.ipr
+*.iws
+*.swp
+.vscode/
+*.DS_Store
+
+# Build / target folders
+/build/
+/out/
+/target/
