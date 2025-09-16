@@ -1,6 +1,6 @@
 // CLASS: GameMove
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This abstract class represents a move in the game, identified by a unique move ID. 
 // It provides basic functionality for game moves.

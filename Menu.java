@@ -1,7 +1,6 @@
 // CLASS: Menu
 //
-// Author: Oluwanifemi Tawoju, 7980612
-//
+// Author: Oluwanifemi Tawoju
 // REMARKS: This class represents a menu for the game. 
 // It manages menu items, displays the menu, and handles user input to navigate the menu.
 //

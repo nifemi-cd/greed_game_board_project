@@ -1,6 +1,6 @@
 // CLASS: Player
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This interface represents a player in the game. 
 // It provides a method to get input from the player.

@@ -1,6 +1,6 @@
 // CLASS: PlayGame
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents the "Play Game" menu item. 
 // It provides functionality to select the item and view its description.

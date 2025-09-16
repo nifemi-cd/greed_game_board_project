@@ -1,6 +1,6 @@
 // CLASS: GreedGameMove
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents a move in the Greed Game, identified by a unique move ID. 
 // It provides functionality to execute the move on the game board.

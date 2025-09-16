@@ -1,6 +1,6 @@
 // CLASS: MenuItem
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This abstract class represents a menu item in the game menu. 
 // It provides functionality to get the item's description and identifier, and to select the item.

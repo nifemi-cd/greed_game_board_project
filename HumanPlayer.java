@@ -1,6 +1,6 @@
 // CLASS: HumanPlayer
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents a human player in the game. 
 // It provides functionality to get input from the player.

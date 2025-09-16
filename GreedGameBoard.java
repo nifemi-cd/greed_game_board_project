@@ -1,6 +1,6 @@
 // CLASS: GreedGameBoard
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents the game board for the Greed Game. 
 // It manages the board's state, including the player's position and the contents of each cell.

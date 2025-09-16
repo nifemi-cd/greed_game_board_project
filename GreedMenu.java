@@ -1,6 +1,6 @@
 // CLASS: GreedMenu
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents the menu for the Greed Game. 
 // It provides functionality to reset the menu with a specific message.

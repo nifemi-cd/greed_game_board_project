@@ -1,6 +1,6 @@
 // CLASS: GameBoard
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This interface represents a game board that can be viewed and reset. 
 // It provides the necessary methods to reset the game board and view its current state.

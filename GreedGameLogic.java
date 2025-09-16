@@ -1,6 +1,6 @@
 // CLASS: GreedGameLogic
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents the game logic for the Greed Game. 
 // It manages the player's score, valid moves, and transitions between game states.

@@ -1,11 +1,5 @@
 //-----------------------------------------
 // NAME        : Oluwanifemi Tawoju
-// STUDENT NUMBER : your student number
-// COURSE      : COMP 2150
-// INSTRUCTOR  : Olivier Tremblay Savard
-// ASSIGNMENT  : assignment 3
-// QUESTION    : question 0/1      
-// 
 // REMARKS: This program initializes and runs the Greed Game, setting up the game board, game logic, and menu.
 //-----------------------------------------
 

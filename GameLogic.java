@@ -1,6 +1,6 @@
 // CLASS: GameLogic
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This abstract class represents the logic of a game, managing the player's score and providing basic functionality for game logic.
 //

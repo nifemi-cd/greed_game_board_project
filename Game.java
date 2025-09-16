@@ -1,6 +1,6 @@
 // CLASS: Game
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This abstract class represents a generic game with a game logic, game board, and menu. 
 // It provides a framework for running the game by managing the game loop and transitions between menu and game states.

@@ -1,6 +1,6 @@
 // CLASS: GreedGame
 //
-// Author: Oluwanifemi Tawoju, 7980612
+// Author: Oluwanifemi Tawoju
 //
 // REMARKS: This class represents the Greed Game, initializing the game logic, game board, and menu. 
 // It sets up the menu with options to play the game or quit.
